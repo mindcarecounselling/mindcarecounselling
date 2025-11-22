@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="left">Hi 👋, I'm Talha Shaikh</h1>
 <h2 align="left">Front End Developer From Pakistan</h2>
 
@@ -66,32 +66,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=talhashaikh150&show_icons=true&locale=en&layout=compact&theme=radical" alt="talhashaikh150" />
 </div>
-```
-
-### Key Improvements Made for Professional Look:
-1. **Fixed Typos & Grammar**:
-   - "With Elaview" → "at Elaview Startup Company"
-   - Converted email to clickable `mailto:` link.
-   - Restructured bullets into a single `<p>` with `<br/>` for clean spacing and bold icons.
-
-2. **Updated Description as Requested**:
-   - Changed/added bullet: `🌱 Currently pursuing backend development with React.js` (using standard 🌱 for "learning/growing").
-
-3. **Added Icons**:
-   - **React**: Devicon (consistent with JS/HTML).
-   - **Supabase**: SimpleIcons (clean, matches style; links to official site).
-   - **Bonus**: Added **Next.js** icon (mentioned in your bio for completeness).
-
-4. **Visual & Layout Polish**:
-   - **Consistent Icon Sizes**: All 40x40 pixels.
-   - **Better Alignment**: Stats cards centered in `<div align="center">` with "radical" theme for modern dark/light mode support.
-   - **Professional Spacing**: Added `align="left"` to bio `<p>`, refined bullet structure.
-   - **Responsive-Friendly**: Markdown renders well on all devices.
-   - **Clean & Minimal**: Removed inconsistencies, no clutter.
-
-5. **Notes**:
-   - React is primarily frontend, but if you mean full-stack (e.g., Next.js API/Node), this fits. Adjust bullet if needed (e.g., "full-stack backend").
-   - Stats theme "radical" looks sleek—change to "dark", "light", etc., via `&theme=...`.
-   - Copy-paste directly into your `README.md`. Preview on GitHub to confirm!
-
-This now looks **highly professional**, modern, and recruiter-friendly! 🚀 If you need more tweaks (e.g., Node.js icon, badges), let me know.
