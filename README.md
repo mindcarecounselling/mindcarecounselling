@@ -1,25 +1,25 @@
 
-<h1 align="center">Hi 👋, I'm Talha Shaikh</h1>
-<h3 align="center">Front End Developer | React & Next.js Enthusiast | From Pakistan</h3>
+<h1 align="center">👋 Hi, I'm Talha Shaikh</h1>
+<h3 align="center">🚀 Front End Developer | ⚡ React & Next.js Enthusiast | 🇵🇰 From Pakistan</h3>
 
 <div align="center">
-  <img alt="Coding" width="320" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+  <img alt="Coding in Action" width="320" src="https://media.giphy.com/media/l3q2K6275G7p4qYd2/giphy.gif" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Front End Developer** specializing in building responsive, dynamic, and user-centric web applications. Currently pursuing **full-stack development with React.js and modern backend technologies**. I'm committed to continuously learning and staying updated with the latest industry trends to deliver exceptional digital experiences.
+🌟 **Dreamer & Builder** | I bring ideas to life with responsive, dynamic, and user-friendly web applications. Currently diving deep into **full-stack development with React.js and cutting-edge backend technologies**. Always on the lookout for new challenges and learning opportunities!
 
 ---
 
 ## 🔭 Current Focus
 
-- 💼 Working with **Elaview Startup Company**
-- 📚 Pursuing full-stack development with **React.js & Backend Technologies**
-- 🚀 Building scalable web applications with **Next.js**
-- 💡 Exploring **Supabase** for modern backend solutions
+- 💼 Crafting experiences at **Elaview Startup Company**
+- 📚 Evolving into a **full-stack developer** with **React.js & Backend Innovations**
+- 🚀 Scaling new heights with **Next.js**
+- 💡 Exploring **Supabase** for the next-gen backend solutions
 
 ---
 
@@ -27,7 +27,7 @@ I'm a passionate **Front End Developer** specializing in building responsive, dy
 
 <div align="center">
 
-### Frontend Development
+### 💻 Frontend Development
 <p>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
@@ -46,7 +46,7 @@ I'm a passionate **Front End Developer** specializing in building responsive, dy
   </a>
 </p>
 
-### Styling & Tools
+### 🎨 Styling & Tools
 <p>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> 
@@ -63,7 +63,7 @@ I'm a passionate **Front End Developer** specializing in building responsive, dy
 
 ---
 
-## 📱 Connect With Me
+## 📱 Let's Connect
 
 <div align="center">
 <a href="https://www.linkedin.com/in/talha-web-dev/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
@@ -96,3 +96,5 @@ I'm a passionate **Front End Developer** specializing in building responsive, dy
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=talhashaikh150&style=flat-square" alt="Profile Views" />
 </div>
+```
+
