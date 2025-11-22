@@ -1,55 +1,64 @@
-<!-- ───────────────  EYE-CATCHER TOP  ─────────────── -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=Hi%2C%20I%27m%20Talha%20Shaikh&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="Capsule Header" />
+
+<!-- Minimal & Ultra-Clean Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&duration=4000&pause=1500&color=000000&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Talha+Shaikh;Front-End+Developer+%E2%80%A2+Pakistan;React+%7C+Next.js+%7C+Supabase" alt="Typing Header"/>
+
+<!-- Profile Views - Minimal Black -->
+<img src="https://komarev.com/ghpvc/?username=talhashaikh150&label=Profile+Views&color=1e1e1e&style=for-the-badge" />
+
+<br/>
+
+<!-- Hero Section - Most Eye-Catching Yet Professional -->
+<img src="https://i.ibb.co/K5Y7Y3v/talha-banner-minimal.png" alt="Talha Shaikh - Clean Black Banner" width="900"/>
+
+<!-- Subtle divider -->
+<img src="https://i.ibb.co/KXhF0bq/divider.png" width="600" />
+
 </div>
 
-<!-- ───────────────  MINI-TAG LINE  ─────────────── -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Developer%20%7C%20Pakistan&font=Inter&center=true&size=22&color=000000&width=380" alt="Tagline" />
-</p>
-
-<!-- ───────────────  ONE-LINER  ─────────────── -->
-<p align="center">
-  I turn ideas into clean, fast UIs — now leveling up with React + Supabase backend.
-</p>
-
-<!-- ───────────────  MICRO-CARD GRID  ─────────────── -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3dXzz/giphy.gif" width="110" alt="Tiny code flow" />
-      <br><strong>Elaview</strong><br>Startup
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50" />
-      <br><strong>React</strong><br>Backend
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="50" />
-      <br><strong>Supabase</strong><br>DB / Auth
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="50" />
-      <br><strong>Next.js</strong><br>Full-Stack
-    </td>
-  </tr>
-</table>
-
-<!-- ───────────────  CONTACT CHIPS  ─────────────── -->
-<p align="center">
-  <a href="mailto:devtalhashaikh@gmail.com"><img src="https://img.shields.io/badge/email-000000?style=flat-square&logo=gmail&logoColor=white" height="24"/></a>
-  <a href="http://talha.novixsoft.com/"><img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=vercel&logoColor=white" height="24"/></a>
-  <a href="https://linkedin.com/in/talha-web-dev"><img src="https://img.shields.io/badge/linkedin-000000?style=flat-square&logo=linkedin&logoColor=white" height="24"/></a>
-</p>
-
-<!-- ───────────────  GITHUB MINI-STATS  ─────────────── -->
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=talhashaikh150&show_icons=true&theme=react&hide_border=true&bg_color=00000000&title_color=000&text_color=000&icon_color=000" />
-  &nbsp;
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhashaikh150&layout=compact&theme=react&hide_border=true&bg_color=00000000&title_color=000&text_color=000&icon_color=000" />
-</p>
-
-<!-- ───────────────  CLOSING STRIP  ─────────────── -->
+### 🛠 Currently Building With
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="Footer Strip" />
+  <img src="https://techstack-icons.vercel.app/api/icons?i=react,nextjs,tailwind,supabase,typescript,prisma&theme=dark&height=48" alt="Tech Stack"/>
 </div>
+
+<br/>
+
+<div align="center">
+
+| **Focus**                  | **Status**                                      |
+|----------------------------|--------------------------------------------------|
+| Currently                  | Front-End Engineer @ Elaview Startup            |
+| Learning                   | Full-Stack Backend (React Server Components + Supabase) |
+| Portfolio                  | [talha.novixsoft.com](http://talha.novixsoft.com) |
+| Email                      | devtalhashaikh@gmail.com                        |
+
+</div>
+
+<br/>
+
+<!-- Connect - Minimal Badges -->
+<div align="center">
+  <a href="https://linkedin.com/in/talha-web-dev"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:devtalhashaikh@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+<br/>
+
+<!-- Stats - Pure Black Tokyo Night (Most Beautiful B&W Combo) -->
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=talhashaikh150&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=12" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhashaikh150&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&border_radius=12" />
+</div>
+
+<!-- Streak - Same Theme -->
+<div align="center">
+  <img height="130" src="https://streak-stats.demolab.com?user=talhashaikh150&theme=tokyonight&hide_border=true&background=000000&border_radius=12&date_format=j%20M%20Y" />
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://i.ibb.co/KXhF0bq/divider.png" width="500" />
+  <p><strong>Open to opportunities • Available for freelance • Always shipping</strong></p>
+</div>
+```
