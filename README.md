@@ -1,73 +1,70 @@
-<h1 align="center">👋 Hi, I'm Talha Shaikh</h1>
-<h3 align="center">🚀 Front End Developer | ⚡ React & Next.js Enthusiast | 🇵🇰 Pakistan</h3>
 
 <div align="center">
-  <img alt="Coding in Progress" width="320" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI4S/giphy.gif" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Talha%20Shaikh&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="banner"/>
+
+  <h2>👨‍💻 Frontend Developer | Pakistan</h2>
+  <p>Building beautiful, performant web experiences with React & Next.js</p>
 </div>
 
 ---
 
-## About Me
+### 🚀 About Me
+```javascript
+const talha = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "TypeScript", "React", "Next.js"],
+  tools: ["Tailwind", "Supabase", "Git"],
+  currentlyLearning: ["Backend Integration", "System Design"],
+  funFact: "When I'm not coding, I'm probably designing or watching tech talks"
+}
+```
 
-I'm a passionate **Front End Developer** crafting responsive and dynamic web applications. Currently exploring **full-stack development with React.js and modern backend technologies**. Always eager to learn and innovate!
-
----
-
-## Current Focus
-
-- 💼 Working at **Elaview Startup Company**
-- 📚 Diving into **full-stack development**
-- 🚀 Building with **Next.js**
-- 💡 Exploring **Supabase** for backend solutions
-
----
-
-## Skills & Technologies
-
-### Frontend
-
-| Technology | Icon |
-|------------|------|
-| [HTML5](https://www.w3.org/html/) | ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) |
-| [CSS3](https://www.w3schools.com/css/) | ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) |
-| [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
-| [React](https://react.dev/) | ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) |
-| [Next.js](https://nextjs.org/) | ![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg) |
-
-### Tools
-
-| Technology | Icon |
-|------------|------|
-| [Tailwind CSS](https://tailwindcss.com/) | ![Tailwind CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg) |
-| [Git](https://git-scm.com/) | ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) |
-| [Supabase](https://supabase.com/) | ![Supabase](https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg) |
+### 💻 Current Focus
+- **Building** at Elaview Startup
+- **Learning** Backend with React & Supabase
+- **Creating** [Portfolio](http://talha.novixsoft.com/)
+- **Contact** devtalhashaikh@gmail.com
 
 ---
 
-## Connect With Me
-
+### 🛠️ Tech Stack
 <div align="center">
-  <a href="https://www.linkedin.com/in/talha-web-dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100091763175624" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" height="40" width="40" /></a>
-  <a href="https://instagram.com/talhashaik30" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" height="40" width="40" /></a>
-  <a href="mailto:devtalhashaikh@gmail.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/email/email-original.svg" alt="Gmail" height="40" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,supabase,git,figma" />
 </div>
 
 ---
 
-## Portfolio & Contact
-
-- 🌐 [Portfolio](http://talha.novixsoft.com/)
-- 📧 [Email](mailto:devtalhashaikh@gmail.com)
+### 📊 GitHub Stats
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=talhashaikh150&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhashaikh150&layout=compact&theme=radical&langs_count=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhashaikh150&theme=radical" />
+</div>
 
 ---
 
-## GitHub Statistics
-
+### 🎨 Coding Animation
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talhashaikh150&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Specialist;UI+Designer;Always+Learning" alt="Typing animation" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=talhashaikh150&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
+
+---
+
+### 🔗 Connect With Me
+<div align="center">
+  <a href="https://linkedin.com/in/talha-web-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://facebook.com/profile.php?id=100091763175624"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/talhashaik30"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:devtalhashaikh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=talhashaikh150&style=flat-square&color=blue" alt="profile views"/>
+</div>
+```
+
+Would you like me to adjust any specific section or add any particular element?
